@@ -42,6 +42,11 @@ public class forbunnokiso {
 		for (int h=1;h>=10;h-=2) {
 			System.out.println(h);
 		}
+		
+		//３づつ増える
+		for (int g=1;g<=10;g+=3) {
+			System.out.println(g);
+		}
 	}
 
 }
